@@ -1,5 +1,5 @@
 {
   "latest": "1.17",
-  "binUrl": "https://github.com/mmbkw26ykh-collab/ventipet-firmware/raw/15653db2cddad5e042a7710bdca3e0045ab0887c/Ventipet_1.17.bin",
+  "binUrl": "https://github.com/mmbkw26ykh-collab/ventipet-firmware/raw/refs/heads/main/Ventipet_1.17.bin",
   "notes": "Optimierungen und Stabilitätsverbesserungen."
 }
